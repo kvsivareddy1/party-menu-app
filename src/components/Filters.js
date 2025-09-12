@@ -36,22 +36,6 @@ export default function Filters({
         onChange={(e) => onSearchChange(e.target.value)}
         className="search-bar"
       />
-      {/* <label className="toggle">
-        <input
-          type="checkbox"
-          checked={vegOnly}
-          onChange={(e) => onVegOnlyChange(e.target.checked)}
-        />
-        <span className="slider veg"></span>
-      </label>
-      <label className="toggle">
-        <input
-          type="checkbox"
-          checked={nonVegOnly}
-          onChange={(e) => onNonVegOnlyChange(e.target.checked)}
-        />
-        <span className="slider nonveg"></span>
-      </label> */}
       <label className="toggle-switch">
         <input
           type="checkbox"
