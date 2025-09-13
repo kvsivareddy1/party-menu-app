@@ -1,32 +1,32 @@
 import deepFriedSpringRolls from "../assets/images/deep-fried-spring-rolls.jpg";
-import butterChicken from "../assets/images/Butter_Chicken.jpeg";
+import butterChicken from "../assets/images/Butter_Chicken.jpg";
 import butterNaan from "../assets/images/butter_naan.jpeg";
 import caesarSalad from "../assets/images/Caesar_Salad.jpg";
-import chickenLollipop from "../assets/images/Chicke_lollipop.jpeg";
-import chickenBiryani from "../assets/images/chicken_biryani.jpeg";
-import chickenCurry from "../assets/images/chiecken_curry.jpeg";
+import chickenLollipop from "../assets/images/Chicke_lollipop.jpg";
+import chickenBiryani from "../assets/images/chicken_biryani.jpg";
+import chickenCurry from "../assets/images/chicken_curry.jpg";
 import choleBhature from "../assets/images/chole_bhature.jpeg";
 import dalMakhani from "../assets/images/dal_makhani.jpeg";
 import fistAmrisari from "../assets/images/fist_amritsari.jpeg";
-import garlicNaan from "../assets/images/Garlic_Naan.jpeg";
+import garlicNaan from "../assets/images/Garlic_Naan.jpg";
 import gulabJamun from "../assets/images/Gulab_Jamun.jpeg";
 import jalebi from "../assets/images/jalebi.jpeg";
 import jeeraRice from "../assets/images/jeera rice.jpeg";
-import kadhaiPaneer from "../assets/images/Kadhai_paneer.jpeg";
+import kadhaiPaneer from "../assets/images/Kadhai_paneer.jpg";
 import masalaDosa from "../assets/images/masala dosa.jpeg";
-import mixedVegetableCurry from "../assets/images/Miexed_Vegetable_Curry.jpeg";
+import mixedVegetableCurry from "../assets/images/Mixed_Vegetable_Curry.jpg";
 import muttonRoganJosh from "../assets/images/mutton_rogan_josh.jpeg";
 import paneerButterMasala from "../assets/images/paneer_butter_masala.jpeg";
 import pannerPakora from "../assets/images/Paneer_pakora.jpg";
 import paniPuri from "../assets/images/pani_puri.jpeg";
-import pannerTikka from "../assets/images/Panner_Tikka.jpeg";
+import pannerTikka from "../assets/images/Panner_Tikka.jpg";
 import papadum from "../assets/images/papadum.jpeg";
 import pesarattu from "../assets/images/pesarattu.jpeg";
 import raita from "../assets/images/Raita.jpeg";
-import rasgulla from "../assets/images/rasgulla.jpeg";
+import rasgulla from "../assets/images/Rasgulla.jpg";
 import riceKheer from "../assets/images/Rice Kheer.jpeg";
-import tandooriChicken from "../assets/images/Tandoori_chicken.jpeg";
-import vegetaleSoup from "../assets/images/vegetable_soup.jpeg";
+import tandooriChicken from "../assets/images/Tandoori_chicken.jpg";
+import vegetaleSoup from "../assets/images/vegetale_soup.jpg";
 
 export const dishes = [
   {
