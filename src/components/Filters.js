@@ -36,7 +36,29 @@ export default function Filters({
         onChange={(e) => onSearchChange(e.target.value)}
         className="search-bar"
       />
-      <label className="toggle-switch">
+      <div className="toggle-row">
+        <label className="toggle-switch">
+          <input
+            type="checkbox"
+            checked={vegOnly}
+            onChange={(e) => onVegOnlyChange(e.target.checked)}
+          />
+          <span className="slider veg"></span>
+        </label>
+        <span style={{ marginRight: "18px" }}>Veg</span>
+
+        <label className="toggle-switch">
+          <input
+            type="checkbox"
+            checked={nonVegOnly}
+            onChange={(e) => onNonVegOnlyChange(e.target.checked)}
+          />
+          <span className="slider nonveg"></span>
+        </label>
+        <span>Non-Veg</span>
+      </div>
+
+      {/* <label className="toggle-switch">
         <input
           type="checkbox"
           checked={vegOnly}
@@ -54,7 +76,7 @@ export default function Filters({
         />
         <span className="slider nonveg"></span>
       </label>
-      <span>Non-Veg</span>
+      <span>Non-Veg</span> */}
     </div>
   );
 }
